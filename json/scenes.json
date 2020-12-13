@@ -1,0 +1,204 @@
+{
+    "scenes" : [{
+        "id": 0,
+        "mode_id": 0,
+        "desc": "Multicolor static",
+        "def": true,
+        "colors": [
+            {"h": 330, "s": 100, "v": 40},
+            {"h": 180, "s": 100, "v": 35},
+            {"h": 103, "s": 100, "v": 35},
+            {"h": 0, "s": 100, "v": 60},
+            {"h": 28, "s": 100, "v": 50},
+            {"h": 257, "s": 100, "v": 40},
+            {"h": 10, "s": 100, "v": 50}
+        ],
+        "wait_ms": 1000
+    }, {
+        "id": 1,
+        "mode_id": 1,
+        "desc": "Multicolor cyclic",
+        "def": true,
+        "colors": [
+            {"h": 330, "s": 100, "v": 40},
+            {"h": 180, "s": 100, "v": 35},
+            {"h": 103, "s": 100, "v": 35},
+            {"h": 0, "s": 100, "v": 60},
+            {"h": 28, "s": 100, "v": 50},
+            {"h": 257, "s": 100, "v": 40},
+            {"h": 10, "s": 100, "v": 50}
+        ],
+        "wait_ms": 100
+    }, {
+        "id": 2,
+        "mode_id": 0,
+        "desc": "Rainbow static",
+        "def": false,
+        "wait_ms": 1000
+    }, {
+        "id": 3,
+        "mode_id": 1,
+        "desc": "Rainbow cyclic",
+        "def": false,
+        "wait_ms": 1
+    }, {
+        "id": 4,
+        "mode_id": 0,
+        "desc": "Red static",
+        "def": true,
+        "colors": [
+            {"h": 0, "s": 100, "v": 40}
+        ],
+        "wait_ms": 1000
+    }, {
+        "id": 5,
+        "mode_id": 0,
+        "desc": "Green static",
+        "def": true,
+        "colors": [
+            {"h": 120, "s": 100, "v": 40}
+        ],
+        "wait_ms": 1000
+    }, {
+        "id": 6,
+        "mode_id": 0,
+        "desc": "Blue static",
+        "def": true,
+        "colors": [
+            {"h": 240, "s": 100, "v": 40}
+        ],
+        "wait_ms": 1000
+    }, {
+        "id": 7,
+        "mode_id": 0,
+        "desc": "Light blue static",
+        "def": true,
+        "colors": [
+            {"h": 180, "s": 100, "v": 35}
+        ],
+        "wait_ms": 1000
+    }, {
+        "id": 8,
+        "mode_id": 0,
+        "desc": "Magenta static",
+        "def": true,
+        "colors": [
+            {"h": 330, "s": 100, "v": 40}
+        ],
+        "wait_ms": 1000
+    }, {
+        "id": 9,
+        "mode_id": 0,
+        "desc": "Cold white static",
+        "def": true,
+        "colors": [
+            {"h": 210, "s": 0, "v": 30}
+        ],
+        "wait_ms": 1000
+    }, {
+        "id": 10,
+        "mode_id": 0,
+        "desc": "Orange static",
+        "def": true,
+        "colors": [
+            {"h": 10, "s": 100, "v": 40}
+        ],
+        "wait_ms": 1000
+    }, {
+        "id": 11,
+        "mode_id": 0,
+        "desc": "Yellow static",
+        "def": true,
+        "colors": [
+            {"h": 38, "s": 100, "v": 40}
+        ],
+        "wait_ms": 1000
+    }, {
+        "id": 12,
+        "mode_id": 2,
+        "desc": "Multicolor fading",
+        "def": true,
+        "colors": [
+            {"h": 330, "s": 100, "v": 40},
+            {"h": 180, "s": 100, "v": 40},
+            {"h": 103, "s": 100, "v": 40},
+            {"h": 0, "s": 100, "v": 40},
+            {"h": 28, "s": 100, "v": 40},
+            {"h": 257, "s": 100, "v": 40},
+            {"h": 10, "s": 100, "v": 40}
+        ],
+        "wait_ms": 50
+    }, {
+        "id": 13,
+        "mode_id": 2,
+        "desc": "Red fading",
+        "def": true,
+        "colors": [
+            {"h": 0, "s": 100, "v": 40}
+        ],
+        "wait_ms": 50
+    }, {
+        "id": 14,
+        "mode_id": 2,
+        "desc": "Green fading",
+        "def": true,
+        "colors": [
+            {"h": 120, "s": 100, "v": 40}
+        ],
+        "wait_ms": 50
+    }, {
+        "id": 15,
+        "mode_id": 2,
+        "desc": "Blue fading",
+        "def": true,
+        "colors": [
+            {"h": 240, "s": 100, "v": 40}
+        ],
+        "wait_ms": 50
+    }, {
+        "id": 16,
+        "mode_id": 2,
+        "desc": "Light blue fading",
+        "def": true,
+        "colors": [
+            {"h": 180, "s": 100, "v": 35}
+        ],
+        "wait_ms": 50
+    }, {
+        "id": 17,
+        "mode_id": 2,
+        "desc": "Magenta fading",
+        "def": true,
+        "colors": [
+            {"h": 330, "s": 100, "v": 40}
+        ],
+        "wait_ms": 50
+    }, {
+        "id": 18,
+        "mode_id": 2,
+        "desc": "Cold white fading",
+        "def": true,
+        "colors": [
+            {"h": 210, "s": 0, "v": 30}
+        ],
+        "wait_ms": 50
+    }, {
+        "id": 19,
+        "mode_id": 2,
+        "desc": "Orange fading",
+        "def": true,
+        "colors": [
+            {"h": 10, "s": 100, "v": 40}
+        ],
+        "wait_ms": 50
+    }, {
+        "id": 20,
+        "mode_id": 2,
+        "desc": "Yellow fading",
+        "def": true,
+        "colors": [
+            {"h": 38, "s": 100, "v": 40}
+        ],
+        "wait_ms": 50
+    }]
+}

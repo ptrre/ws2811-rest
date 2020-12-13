@@ -1,0 +1,12 @@
+{
+    "modes" : [{
+        "id": 0,
+        "desc": "Static"
+    }, {
+        "id": 1,
+        "desc": "Cyclic"
+    }, {
+        "id": 2,
+        "desc": "Fading"
+    }]
+}
